@@ -1,0 +1,26 @@
+{
+    "name": "marathoncopy",
+    "version": "1.0.2",
+    "description": "A Node-RED node to trigger a media copy in Marathon or Borneo.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maxstrambini/node-red-marathon-copy.git"
+    },
+    "license": "Apache-2.0",
+    "keywords": [
+        "node-red",
+        "marathon",
+        "marathon-copy",
+        "borneo"
+    ],
+    "node-red": {
+        "nodes": {
+            "marathoncopy": "marathoncopy.js"
+        }
+    },
+    "author": {
+        "name": "Massimo Strambini",
+        "email": "",
+        "url": ""
+    }
+}
